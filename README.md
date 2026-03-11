@@ -2,7 +2,7 @@ Hi, I go by Rust. I'm a software developer and high school student who usually w
 
 ## Current projects
 * PonyAggregate | Full-stack archive platform for the Brony fandom, you can visit it <a href="https://ponyaggregate.com">here</a>
-* Ponies.fyi (in progress) | Curated, open-source index site for ponysonas. It will be available at <a href="https://ponies.fyi">ponies.fyi</a>
+* Ponies.fyi | Curated, open-source index site for ponysonas. Available at <a href="https://ponies.fyi">ponies.fyi</a>
 
 ### Older projects (no longer maintained or proof of concepts)
 * Bonobo | An extensive password manager with AES encryption, a web server and UI, open protocol, TUI interface (written in Rust), and a Python library. Expected to be released sometime in 2024.
