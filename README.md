@@ -10,5 +10,5 @@ Hi, I go by Rust. I'm a software developer and high school student who usually w
 * <a href="https://github.com/compscitwilight/arcane">ArcaneExplorer</a> | Electron-based package manager frontend that supports DNF
 
 ## Contacts
+* <a href="mailto:compsci@twilight.horse">compsci@twilight.horse</a>
 * My <a href="https://twitter.com/compscitwilight">Twitter</a>
-* My personal <a href="https://discord.gg/RnsT495wM4">discord server</a>
