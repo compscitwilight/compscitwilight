@@ -3,6 +3,7 @@ Hi, I go by Rust. I'm a software developer and high school student who usually w
 ## Current projects
 * Herd | Multiplayer pony IO game with real-time herd mechanics. Currently in development and will be playable at <a href="https://herd.twilight.horse">herd.twilight.horse</a>
 * Ponies.fyi | Curated, open-source index site for ponysonas. Available at <a href="https://ponies.fyi">ponies.fyi</a>
+* <a href="https://github.com/compscitwilight/TranslateYourReviews">TranslateYourReviews</a> | Browser extension that provides DeepL support for reviews on Rate Your Music
 
 ### Older projects (no longer maintained or proof of concepts)
 * PonyAggregate | Full-stack archive platform for the Brony fandom, you can visit it <a href="https://ponyaggregate.com">here</a>
