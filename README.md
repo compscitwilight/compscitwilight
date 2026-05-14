@@ -1,4 +1,4 @@
-Hi, I go by Rust. I'm a software developer and high school student who usually works on private repositories. I primarily write in TypeScript, Rust, Go, and Python, but my technical skillset varies across software, networking, operating systems, and theoretical comp-sci.
+Hi, I go by Rust. I'm a software developer and computer science student who usually works on private repositories. I primarily write in TypeScript, Rust, Go, and Python, but my technical skillset varies across software, networking, operating systems, and theoretical comp-sci.
 
 ## Current projects
 * Herd | Multiplayer pony IO game with real-time herd mechanics. Currently in development and will be playable at <a href="https://herd.twilight.horse">herd.twilight.horse</a>
