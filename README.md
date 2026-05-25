@@ -8,7 +8,6 @@ Hi, I go by Rust. I'm a software developer and computer science student who usua
 ### Older projects (no longer maintained or proof of concepts)
 * PonyAggregate | Full-stack archive platform for the Brony fandom, you can visit it <a href="https://ponyaggregate.com">here</a>
 * Bonobo | An extensive password manager with AES encryption, a web server and UI, open protocol, TUI interface (written in Rust), and a Python library. Expected to be released sometime in 2024.
-* <a href="https://github.com/compscitwilight/opnserver">opnserver</a> | A Minecraft server scanner which is currently still under development.
 * <a href="https://github.com/compscitwilight/arcane">ArcaneExplorer</a> | Electron-based package manager frontend that supports DNF
 
 ## Contacts
