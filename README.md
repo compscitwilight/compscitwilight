@@ -16,6 +16,13 @@ A browser extension that adds DeepL translation support to reviews on [Rate Your
 ## Open-source
 I enjoy contributing to projects I use and care about, while also building and maintaining my own software.
 
+## Currently learning
+<div>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/svelte.png" alt="Svelte" title="Svelte"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" alt="Dart" title="Dart"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter"/></code>
+</div>
+
 ## Contacts
 * 📧 <a href="mailto:compsci@twilight.horse">compsci@twilight.horse</a>
 * 🐦 <a href="https://twitter.com/compscitwilight">Twitter / X</a>
